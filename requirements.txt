@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+numpy
+torch
+torchvision
+tensorflow
+ultralytics
+huggingface_hub
+streamlit-webrtc
