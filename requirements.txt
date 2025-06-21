@@ -1,9 +1,8 @@
-streamlit
-opencv-python
+streamlit==1.35.0
 numpy
+opencv-python-headless
 torch
 torchvision
 tensorflow
 ultralytics
-huggingface_hub
-streamlit-webrtc
+huggingface-hub
